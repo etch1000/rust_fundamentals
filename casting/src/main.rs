@@ -5,4 +5,11 @@ fn main() {
 
     let result = float_thirty_two / cast_unsigned_eight;
     println!("{result}");
+
+    // casting u8 as char
+    let number: u8 = 69; // only u8 can be cast as char.
+                         // no other type can be cast as char.
+    let letter: char = number as char;
+
+    println!("{letter}");
 }
