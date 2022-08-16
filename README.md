@@ -1,7 +1,7 @@
 # rust_fundamentals
 learning with pluralsight rust fundamentals course 
 <hr />
-## The Haversine
+## Haversine
 
 Did you know that there are more than the 3 trigonometric functions we are all familiar with sine, cosine and, tangent? These additional trigonometric functions are now obsolete, however, in the past, they were worth naming. 
 
