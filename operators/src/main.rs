@@ -67,4 +67,20 @@ fn main() {
     println!("Results: {results}");
     let results = first_value > second_value;
     println!("Results: {results}");
+
+    // BITWISE Operator
+    let bitwise_and = 86 & 27;
+    println!("Bitwise AND: {bitwise_and}");
+
+    let bitwise_or = 86 | 27;
+    println!("Bitwise OR: {bitwise_or}");
+
+    let bitwise_xor = 86 ^ 27;
+    println!("Bitwise XOR: {bitwise_xor}");
+
+    let left_shift = 86 << 1;
+    println!("Left shift: {left_shift}");
+
+    let right_shift = 86 >> 1;
+    println!("Right shift: {right_shift}");
 }
